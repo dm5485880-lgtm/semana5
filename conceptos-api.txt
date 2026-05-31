@@ -1,0 +1,11 @@
+¿Qué hace esta ruta POST?
+
+La ruta POST sirve para enviar información desde una aplicación hacia un servidor o una base de datos.
+ Normalmente se usa cuando una persona quiere registrar, guardar o crear algo nuevo dentro de un sistema. 
+
+ ¿Para qué podría servir LA RUTA  en una aplicación comunitaria?
+
+En una aplicación comunitaria, una ruta POST podría servir para que los ciudadanos envíen reportes, alertas o solicitudes.
+ Por ejemplo, una persona podría reportar un daño en una calle, una fuga de agua o una situación de emergencia desde su celular.
+ La información se enviará automáticamente al sistema para que quede guardada y pueda ser revisada por otras personas o por las autoridades.
+También podría utilizarse para registrar nuevos usuarios, publicar avisos importantes o enviar mensajes a la comunidad. De esta manera, la aplicación ayudaría a que toda la información llegue de forma rápida, organizada y segura
